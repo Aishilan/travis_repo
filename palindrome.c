@@ -3,8 +3,7 @@ int main()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
 
-    printf("Enter an integer: ");
-    scanf("%d", &n);
+    n=12321;
 
     originalInteger = n;
 
